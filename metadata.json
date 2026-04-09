@@ -1,0 +1,5 @@
+{
+  "name": "Sentinel: Fraud & Anomaly Detection",
+  "description": "A real-time data engineering dashboard for monitoring transactions and detecting fraudulent patterns using statistical analysis and AI.",
+  "requestFramePermissions": []
+}
